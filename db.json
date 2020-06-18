@@ -1,14 +1,22 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{code: "AD",
+                description: "Abu Dhabi",
+                id: "101",
+                regionCode: "APAC",
+                key:"APAC",
+                value:"102",
+                label:'APAC',
+                status: "ACTIVE"}, {code: "AG",
+                description: "chennai",
+                id: "102",
+                key:"APAG",
+                value:"103",
+                label:"APAG",
+                regionCode: "APAG",
+                status: "ACTIVE"}, {code: "AGE",
+                description: "bengaluru",
+                id: "103",
+                regionCode: "APAGK",
+                key:"APAK",
+                value:"104",
+                label:"APAk",
+                status: "ACTIVE"}]
